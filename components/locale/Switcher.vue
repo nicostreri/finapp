@@ -5,7 +5,12 @@ const locales = [{
 }, {
   slug: 'en',
   name: 'English',
-}]
+},
+{
+  slug: 'es',
+  name: 'Español',
+},
+]
 </script>
 
 <template lang="pug">

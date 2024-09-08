@@ -76,5 +76,6 @@
     "typescript": "^5.2.2",
     "vitest": "^0.34.5",
     "webpack": "4.46.0"
-  }
+  },
+  "packageManager": "yarn@4.4.1"
 }

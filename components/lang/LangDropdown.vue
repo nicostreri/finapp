@@ -11,6 +11,8 @@ export default {
       switch (this.$i18n.locale) {
         case 'ru':
           return '🇷🇺 Русский - Russian'
+        case 'es':
+          return 'ES Español'
         default:
           return '🇺🇸 English - Английский'
       }
@@ -52,5 +54,10 @@ SharedContextMenu(
     SharedContextMenuItem(
       title="🇺🇸 English - Английский"
       @onClick="changeLang('en')"
+    )
+
+    SharedContextMenuItem(
+      title="Es Español"
+      @onClick="changeLang('es')"
     )
 </template>

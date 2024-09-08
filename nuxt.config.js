@@ -116,7 +116,13 @@ export default defineNuxtConfig({
       code: 'ru',
       iso: 'ru-RU',
       file: 'ru-RU.js',
-    }],
+    },
+    {
+      code: 'es',
+      iso: 'es-ES',
+      file: 'es-ES.js',
+    },
+    ],
     strategy: 'no_prefix',
     defaultLocale: 'en',
     detectBrowserLanguage: {
