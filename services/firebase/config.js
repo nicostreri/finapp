@@ -1,9 +1,10 @@
 export const config = {
-  apiKey: 'AIzaSyAjJG6UrfA1FEzV8qbjmuk8wiUic0uWv-8',
-  appId: '1:1057184379213:web:8c728d0b7099f194',
-  authDomain: 'finapp-17474.firebaseapp.com',
-  databaseURL: 'https://finapp-17474.firebaseio.com',
-  messagingSenderId: '1057184379213',
-  projectId: 'finapp-17474',
-  storageBucket: 'finapp-17474.appspot.com',
-}
+  apiKey: "AIzaSyBv_eEgb7DZhtl0yjv_v8oUz408k9Vj73Q",
+  authDomain: "finapp-st.firebaseapp.com",
+  databaseURL: "https://finapp-st-default-rtdb.firebaseio.com",
+  projectId: "finapp-st",
+  storageBucket: "finapp-st.firebasestorage.app",
+  messagingSenderId: "1048800826225",
+  appId: "1:1048800826225:web:5aff57c91efc70053f9cd0",
+  measurementId: "G-FD4N6EZGCV"
+};
